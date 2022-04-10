@@ -1,6 +1,6 @@
 {
-    "name": "Getting Started Example",
-    "description": "Build an Extension!",
+    "name": "whatcolor?",
+    "description": "describes color on webpage",
     "version": "1.0",
     "manifest_version": 3
 }
